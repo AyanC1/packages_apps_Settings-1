@@ -92,4 +92,8 @@
 
     <!-- Back gesture animation -->
     <string name="back_gesture_arrow_message">Show an animated arrow for back gesture.</string>
+
+    <!-- Battery Options -->
+    <string name="advanced_battery_options_title">Advanced</string>
+    <string name="advanced_battery_options_summary">Advanced Battery options</string>
 </resources>
